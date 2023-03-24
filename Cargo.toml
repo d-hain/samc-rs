@@ -8,6 +8,6 @@ homepage = "https://github.com/d-hain/samc-rs"
 repository = "https://github.com/d-hain/samc-rs"
 readme = "README.md"
 keywords = ["samc", "sam", "ihna", "c"]
-# TODO: categories and documentation
+# TODO: categories and documentation (also ex- or include)
 
 [dependencies]
