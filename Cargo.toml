@@ -1,0 +1,13 @@
+[package]
+name = "samc"
+version = "0.1.0"
+edition = "2021"
+license = "MIT OR Apache-2.0"
+description = "Just a placeholder right now."
+homepage = "https://github.com/d-hain/samc-rs"
+repository = "https://github.com/d-hain/samc-rs"
+readme = "README.md"
+keywords = ["samc", "sam", "ihna", "c"]
+# TODO: categories and documentation
+
+[dependencies]
